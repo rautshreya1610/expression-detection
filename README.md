@@ -118,7 +118,7 @@ python ExpressionInit.py
 
 This will start the webcam and detect facial emotions in real time.
 
-Applications
+Applications are mentioned below
 
 Human computer interaction
 
